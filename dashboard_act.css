@@ -201,7 +201,7 @@
         box-shadow: 0 0 0 4px rgba(47, 160, 198, 0.1);
     }
     .header-left {
-        width: 100%;
+        flex: 1;
         display: flex;
         align-items: center;
         flex-shrink: 0;
@@ -710,4 +710,5 @@
         .filter-bar {
             padding: 15px 20px;
         }
+
     }
